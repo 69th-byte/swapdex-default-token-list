@@ -5709,7 +5709,7 @@
       "name": "SwapDEX",
       "symbol": "SDX",
       "decimals": 7,
-      "logoURI": "https://github.com/CryptoGrandad/TokenImages/blob/main/SwapDEX.png"
+      "logoURI": "https://raw.githubusercontent.com/CryptoGrandad/TokenImages/main/SwapDEX.png"
     },
     {
       "chainId": 1,
